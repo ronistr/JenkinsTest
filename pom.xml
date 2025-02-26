@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Cal</mainClass>
+                            <mainClass>AikidoTracker</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
